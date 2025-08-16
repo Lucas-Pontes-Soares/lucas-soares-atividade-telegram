@@ -1,6 +1,6 @@
 package RoboLucao;
 
-// Fazendo 5 push de teste
+// Fazendo 6 push de teste
 
 import robocode.*;
 import robocode.util.Utils;
